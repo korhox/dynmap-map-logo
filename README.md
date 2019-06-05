@@ -100,6 +100,6 @@ Upload your logo to `/plugins/dynmap/web/images/` with name korho-logo.png. Reco
 # Last words
 This is my first GitHub post, please tell me if i can somehow improve this! :) If you need help setting this up, please post issue with your index.html attached.
 
-*Best regards,
+*Best regards,*
 
-korho*
+*korho*
