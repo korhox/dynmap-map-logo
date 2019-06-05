@@ -7,6 +7,7 @@ View demo here: https://kartta.flosmine.fi/
 If you are on linux/mac os or using hosting provider, you do not need to worry about directory paths in this tip. If you are on windows, note that your file system is using backslashes instead of normal slashes, so you need to navigate to file with `\path\to\file\`.
 
 # Adding logo with link and hover effect
+Clicking image will open new window to defined site.
 ## Step 1
 Open `index.html` in your server directory `/plugins/dynmap/web/`
 
@@ -55,6 +56,7 @@ In last replace, you need to replace `YOUR-URL-HERE` with URL, where you want to
 Upload your logo to `/plugins/dynmap/web/images/` with name korho-logo.png. Recommended image resolution is 420x150. Image height can varie with your logo style. Image can be bigger or smaller, but it will impact the look of it. You can change the width (and therefore in height as well) of image with CSS changing value of `max-width` defined in CSS (within <style>-tags).
   
 # Adding logo without linking and hover effect
+Image is just always there and really does nothing.
 ## Step 1
 Open `index.html` in your server directory `/plugins/dynmap/web/`
 
