@@ -96,3 +96,9 @@ In same index.html file
 
 ## Step 3
 Upload your logo to `/plugins/dynmap/web/images/` with name korho-logo.png. Recommended image resolution is 420x150. Image height can varie with your logo style. Image can be bigger or smaller, but it will impact the look of it. You can change the width (and therefore in height as well) of image with CSS changing value of `max-width` defined in CSS (within <style>-tags).
+    
+# Last words
+This is my first GitHub post, please tell me if i can somehow improve this! :) If you need help setting this up, please post issue with your index.html attached.
+
+*Best regards,
+korho*
