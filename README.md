@@ -5,8 +5,11 @@ View demo here: https://kartta.flosmine.fi/
 
 # Jump to
 [1. Notes](https://github.com/korhox/dynmap-map-logo#notes)
+
 [2. Adding logo with link and hover effect](https://github.com/korhox/dynmap-map-logo#adding-logo-with-link-and-hover-effect)
+
 [3. Adding logo without linking and hover effect](https://github.com/korhox/dynmap-map-logo#adding-logo-without-linking-and-hover-effect)
+
 [4. Last words](https://github.com/korhox/dynmap-map-logo#last-words)
 
 # 1. Notes
