@@ -10,7 +10,8 @@ View demo here: https://kartta.flosmine.fi/
 [4. Last words](https://github.com/korhox/dynmap-map-logo#last-words)
 
 # 1. Notes
-If you are on linux/mac os or using hosting provider, you do not need to worry about directory paths in this tip. If you are on windows, note that your file system is using backslashes instead of normal slashes, so you need to navigate to file with `\path\to\file\`.
+1. This tip assumes that you are using and installed [Dynmap](https://github.com/webbukkit/dynmap).
+2. If you are on linux/mac os or using hosting provider, you do not need to worry about directory paths in this tip. If you are on windows, note that your file system is using backslashes instead of normal slashes, so you need to navigate to file with `\path\to\file\`.
 
 # 2. Adding logo with link and hover effect
 Clicking image will open new window to defined site.
