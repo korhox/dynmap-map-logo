@@ -1,7 +1,5 @@
 # Screenshot & demo
-View screenshot here: https://i.korho.fi/i/1b1b248b3
-
-View demo here: https://kartta.flosmine.fi/
+[not available]
 
 # Jump to
 1. [Notes](https://github.com/korhox/dynmap-map-logo#notes)
